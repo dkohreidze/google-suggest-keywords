@@ -1,6 +1,5 @@
 # google-suggest-keywords
 
-####`googleSuggest.py`
 
 This script queries Google and returns a list of suggested keywords (from Google Instant Search results) based on the input keywords.
 
